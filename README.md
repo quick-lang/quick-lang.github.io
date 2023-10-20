@@ -1,0 +1,1 @@
+# quick-lang.github.io
